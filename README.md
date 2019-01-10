@@ -1,5 +1,6 @@
 # DeepLearningUtility
 **Some important IPython notebook**
+
 Sachin Nowal
 
 ---
@@ -25,3 +26,4 @@ Sachin Nowal
 
 10)Clustering: KMeans(More intution)
 
+11)Data Augmentation
