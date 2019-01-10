@@ -29,3 +29,5 @@ Sachin Nowal
 11)Data Augmentation
 
 [`https://github.com/sachin5nowal/DL_Capstone/blob/master/Capstone_task_1.ipynb`](https://github.com/sachin5nowal/DL_Capstone/blob/master/Capstone_task_1.ipynb)
+
+12)Numpy and Pandas IPython notebook
