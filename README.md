@@ -27,3 +27,5 @@ Sachin Nowal
 10)Clustering: KMeans(More intution)
 
 11)Data Augmentation
+
+[`https://github.com/sachin5nowal/DL_Capstone/blob/master/Capstone_task_1.ipynb`]
