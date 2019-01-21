@@ -31,5 +31,7 @@ Sachin Nowal
 [`https://github.com/sachin5nowal/DL_Capstone/blob/master/Capstone_task_1.ipynb`](https://github.com/sachin5nowal/DL_Capstone/blob/master/Capstone_task_1.ipynb)
 
 12)Numpy and Pandas IPython notebook
-Numpy [Numpy practice notebook](https://github.com/sachin5nowal/MachineLearningUtils/blob/master/Playing%20with%20numpy.ipynb)
-Pandas[Pandas practice notebook](https://github.com/sachin5nowal/MachineLearningUtils/blob/master/Playing%20with%20Pandas.ipynb)
+
+Numpy: [Numpy practice notebook](https://github.com/sachin5nowal/MachineLearningUtils/blob/master/Playing%20with%20numpy.ipynb)
+
+Pandas: [Pandas practice notebook](https://github.com/sachin5nowal/MachineLearningUtils/blob/master/Playing%20with%20Pandas.ipynb)
